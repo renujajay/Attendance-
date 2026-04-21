@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Football Attendance</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Football Attendance</h1>
+
+    <label for="sessionDate">Session Date:</label>
+    <input type="date" id="sessionDate">
+
+    <input type="text" id="searchBox" placeholder="Search student name...">
+
+    <h2>Student List</h2>
+    <ul id="studentList"></ul>
+
+    <h2>Present Today</h2>
+    <ul id="presentList"></ul>
+
+    <button id="showSummaryBtn">Show Attendance Summary</button>
+
+    <div id="summaryBox" class="summary-box"></div>
+
+    <p id="status"></p>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
