@@ -1,10 +1,4 @@
 const students = [
-  "Adam Silva",
-  "Ben Perera",
-  "Chris Fernando",
-  "Daniel Jay",
-  "Ethan Kumar",
-  "Farhan Ali"
   "Aadam Suleiman",
   "Tiyen Rubasinghe",
   "Ayen Colombage",
