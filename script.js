@@ -4,7 +4,8 @@ const students = [
   "Chris Fernando",
   "Daniel Jay",
   "Ethan Kumar",
-  "Farhan Ali""Aadam Suleiman",
+  "Farhan Ali"
+  "Aadam Suleiman",
   "Tiyen Rubasinghe",
   "Ayen Colombage",
   "Daksesh Thiyahadeepa",
