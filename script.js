@@ -4,7 +4,18 @@ const students = [
   "Chris Fernando",
   "Daniel Jay",
   "Ethan Kumar",
-  "Farhan Ali"
+  "Farhan Ali""Aadam Suleiman",
+  "Tiyen Rubasinghe",
+  "Ayen Colombage",
+  "Daksesh Thiyahadeepa",
+  "Makeen Abdul",
+  "Nishyanthan Narenjan",
+  "Sandev",
+  "Taha Abdul",
+  "Daanya Salihu",
+  "Arhan Aahid (trial)",
+  "Elhan Fulham (trial)",
+  "Kiven Darmasena"
 ];
 
 let presentStudents = [];
